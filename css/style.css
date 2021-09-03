@@ -1,0 +1,51 @@
+
+
+.navbar1{
+    background-color: rgb(201, 201, 201);
+    color: white;
+    display: flex;
+    justify-content: space-around !important;
+    padding: 10px 10px;
+    text-align: center;  
+}
+.myNav{
+    align-self: center !important;
+}
+.myDivs{
+    padding: 20px 10px;
+    text-align: center;
+    
+}
+.img{
+    width: 80%;
+}
+.img1{
+    width: 60%;
+}
+.myDiv1{
+    align-self: center;
+}
+a{
+    color: white;
+}
+a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+td{
+    text-align: justify !important;
+}
+th{
+    align-self: center !important;
+}
+.myHeader{
+    background-color: black;
+    color: #61dafb;
+}
+.myList{
+    text-align: justify;
+}
+h1{
+    color: #61dafb;
+    background-color: black;
+}
