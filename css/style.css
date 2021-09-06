@@ -1,7 +1,11 @@
+body{
+    margin: 0px;
+    padding: 0px;
 
+}
 
 .navbar1{
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(0, 0, 0);
     color: white;
     display: flex;
     justify-content: space-around !important;
@@ -10,6 +14,11 @@
 }
 .myNav{
     align-self: center !important;
+    padding: 5px 10px;
+}
+
+.para{
+    text-align: justify;
 }
 .myDivs{
     padding: 20px 10px;
@@ -48,4 +57,25 @@ th{
 h1{
     color: #61dafb;
     background-color: black;
+}
+.mt-5{
+    margin-top: 05px !important;
+}
+.myBtn{
+    background-color: black;
+    color: white;
+    box-shadow: none;
+    border: none;
+}
+.myBtn:hover{
+    background-color:#61dafb ;
+    color: black;
+}
+.myBtn:active{
+    background-color:#0056b3 ;
+    color: black;
+}
+.bg-dark{
+    background-color:black !important;
+    
 }
